@@ -10,7 +10,7 @@ The data analysis occurs in the following steps-
   3.1. ```hpc_tpmcal.md```
   3.2. ```combiningallfiles.md```
 4. ```hpc_magextraction.md```
-  4.1. ```mag_annotation tables.md```
+  4.1. ```mag_annotation_tables.md```
 5. ```Statistical_analysis folder```
 
 The codes are maintained by Jigyasa Arora. For any questions, please open an issue or email at [jigyasa-arora@oist.jp](jigyasa-arora@oist.jp)
